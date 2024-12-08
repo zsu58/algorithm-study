@@ -1,5 +1,5 @@
 /* https://school.programmers.co.kr/learn/courses/30/lessons/120910 */
-// mein
+// mine
 object Solution {
     def solution(n: Int, t: Int): Int = {
         if (t == 0) n
